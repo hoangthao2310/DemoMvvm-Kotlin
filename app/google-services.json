@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903832845732",
+    "project_id": "demomvvm-d8d53",
+    "storage_bucket": "demomvvm-d8d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903832845732:android:073f3a644a6a30c3f35531",
+        "android_client_info": {
+          "package_name": "com.example.kotlinmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgMYpikw8VfLjr-sivsMNBsUY_hGyB0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
